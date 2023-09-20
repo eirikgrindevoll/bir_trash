@@ -1,0 +1,14 @@
+{
+  "domain": "bir_trash",
+  "name": "Bir Trash",
+  "codeowners": ["@eirikgrindevoll"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/bir_trash",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "version": "v1.0.0-alpha"
+}
